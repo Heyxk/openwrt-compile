@@ -1,1 +1,1 @@
-docker run -it --name=openwrt-compile -v $PWD/lede:/lede cutekk/openwrt-compile /bin/bash
+docker run -it --name=op -v $PWD/lede:/lede cutekk/openwrt-compile /bin/bash
